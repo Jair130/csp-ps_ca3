@@ -1,8 +1,8 @@
-
-body {
-  <style>
-@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+<style>
+{@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
 </style>
+}
+body {
   color: #181909;
   background-color: #e3ec27d4;
   display: flex;
