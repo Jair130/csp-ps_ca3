@@ -1,6 +1,6 @@
 
 tasks:
-  - init: npm i http path express fs xslt-processor
+  - init: npm i http path express fs xslt-processor xml2js && node index.js
 
  
 vscode:
