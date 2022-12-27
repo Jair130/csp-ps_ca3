@@ -2,14 +2,14 @@
 <xsl:transform xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
 	<xsl:output method="html" doctype-public="XSLT-compat" omit-xml-declaration="yes" encoding="UTF-8" indent="yes"/>
 	<xsl:template match="/">
-				<table id="menuTable" border="1" class="indent">
+				<table id="TracksTable" border="1" class="indent">
 					<thead>
 						<tr>
-							<th colspan="3">Roastmoreland 30-34 Menu</th>
+							<th colspan="3">Hard Techno 100 top tracks 2022</th>
 						</tr>
 						<tr>
 							<th>Select</th>
-							<th>Item</th>
+							<th>Track Name</th>
 							<th>Price</th>
 						</tr>
 					</thead>
@@ -20,10 +20,10 @@
 									<xsl:value-of select="@name"/>
 								</td>
 							</tr>
-							<xsl:for-each select="item">
+							<xsl:for-each select="track">
 								<tr>
-									<xsl:attribute name="decaf">
-										<xsl:value-of select="boolean(@decaf)"/>
+									<xsl:attribute name="discount">
+										<xsl:value-of select="boolean(@discount)"/>
 									</xsl:attribute>
 									<td align="center">
 										<input name="item0" type="checkbox"/>
