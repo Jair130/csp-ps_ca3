@@ -1,12 +1,13 @@
 
+ports:
+  - port: 3000-8999
+    onOpen: ignore
+
+    
 tasks:
   - init: npm i http path express fs xslt-processor xml2js && node index.js
-ports:
-  - name: Web App
-    description: The main application web server
-    port: 8080
-    onOpen: open-browser
+
+  
  
-vscode:
-  extensions:
-    - ms-vscode.live-server
+
+
