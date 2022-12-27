@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+    <category name="HARD TECHNO TRACKS">
+        <item>
+            <listing>Ritual Original mix</listing>
+            <artist>Stephan Crown</artist>
+            <label>Space Beat</label>
+            <key> D maj </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item>
+            <listing>Take The Memories Away Original Mix</listing>
+            <artist>Stephan Crown</artist>
+            <label>Space Beat</label>
+            <key> Gb min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item>
+            <listing>Port Mix</listing>
+            <artist>Krischmann & Klingenberg</artist>
+            <label>Technosforza</label>
+            <key> Gb min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item>
+            <listing>Lisbonne Original Mix</listing>
+            <artist>Psycho Chok</artist>
+            <label>Technosforza</label>
+            <key> Gb min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item remix="true">
+            <listing>Look Into Your Soul PVR (ARG) Remix</listing>
+            <artist>Stephan Crown</artist>
+            <label>Space Beat</label>
+            <key> Gb min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+    </category>
+    <category name="TECHNO TRACKS">
+        <item>
+            <listing>Frontal Original Mix</listing>
+            <artist>I A N</artist>
+            <label>LANDR, Self-Released</label>
+            <key> Bb min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item>
+            <listing>Indian Synth Original mix</listing>
+            <artist>J. OSCIUA</artist>
+            <label>Space Beat</label>
+            <key> G min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item remix="true">
+            <listing>Virus Love Nice Drums Mix</listing>
+            <artist>Stephan Crown</artist>
+            <label>Space Beat</label>
+            <key> G min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+    </category>
+    <category name="MELODIC HOUSE & TECHNO TRACKS">
+        <item>
+            <listing>Techmateria Original Mix</listing>
+            <artist>Frozenkanda</artist>
+            <label>Loyalty Survey</label>
+            <key> F maj </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item>
+            <listing>Came Back To Me Original Mix</listing>
+            <artist>EZEK</artist>
+            <label>Boston Underground</label>
+            <key> A min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item remix="true">
+            <listing>Hi Mars! Glenn Morrison Remix</listing>
+            <artist>Esphyr </artist>
+            <label>Transpecta</label>
+            <key> D maj </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+    </category>
+    
+    <category name="ELECTRO TRACKS">
+        <item>
+            <listing>Agent Parallaxis Original Mix</listing>
+            <artist>Idiocrat</artist>
+            <label>Diffuse Reality Records</label>
+            <key> E min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item>
+            <listing>Titan Robotic Original Mix</listing>
+            <artist>Gabriel Watereast</artist>
+            <label>Deep Earth-records</label>
+            <key> Bb maj </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item>
+            <listing>Beat It Original Mix</listing>
+            <artist>Jose Jimenez</artist>
+            <label>Sobel Nation Records</label>
+            <key> D min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item>
+            <listing>Revolution Original Version</listing>
+            <artist>Brandski</artist>
+            <label>Fanzine</label>
+            <key> G maj </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+        <item remix="true">
+            <listing>Virgin Skaki 'lectro Remix.Skaki</listing>
+            <artist>Tito K</artist>
+            <label>Mondonga Records</label>
+            <key> D maj </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 </price>
+        </item>
+    </category>
+
+
+
+</menu>

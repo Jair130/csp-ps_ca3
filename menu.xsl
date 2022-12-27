@@ -5,12 +5,17 @@
 				<table id="TracksTable" border="1" class="indent">
 					<thead>
 						<tr>
-							<th colspan="3">Hard Techno 100 top tracks 2022</th>
+							<th colspan="3"> Top 5 best tracks 2022</th>
 						</tr>
 						<tr>
 							<th>Select</th>
 							<th>Track Name</th>
+							<th>Artist</th>
+							<th>Label</th>
+							<th>Key</th>
+							<th>Date of release</th>
 							<th>Price</th>
+
 						</tr>
 					</thead>
 					<tbody>
@@ -22,8 +27,8 @@
 							</tr>
 							<xsl:for-each select="track">
 								<tr>
-									<xsl:attribute name="discount">
-										<xsl:value-of select="boolean(@discount)"/>
+									<xsl:attribute name="Remix">
+										<xsl:value-of select="boolean(@Remix)"/>
 									</xsl:attribute>
 									<td align="center">
 										<input name="item0" type="checkbox"/>
