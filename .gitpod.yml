@@ -1,4 +1,8 @@
+
 tasks:
   - init: npm i http path express fs xslt-processor
 
  
+vscode:
+  extensions:
+    - ms-vscode.live-server
