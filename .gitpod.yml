@@ -1,12 +1,10 @@
-ports:
-  - port: 3000-8999
-    onOpen: ignore
+
 
     
 tasks:
   - init: npm i http path express fs xslt-processor xml2js && node index.js
 
-  
- 
 
-
+vscode:
+  extensions:
+    - ritwickdey.LiveServer
