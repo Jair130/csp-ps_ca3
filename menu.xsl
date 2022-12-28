@@ -4,9 +4,6 @@
 				<table id="TracksTable" border="1" class="indent">
 					<thead>
 						<tr>
-							<th colspan="3"> Top 5 best tracks 2022</th>
-						</tr>
-						<tr>
 							<th>Select</th>
 							<th>Track Name</th>
 							<th>Artist</th>
@@ -26,8 +23,8 @@
 							</tr>
 							<xsl:for-each select="track">
 								<tr id="{position()}">
-									<xsl:attribute name="Remix">
-										<xsl:value-of select="boolean(@Remix)"/>
+									<xsl:attribute name="remix">
+										<xsl:value-of select="boolean(@remix)"/>
 									</xsl:attribute>
 									<td align="center">
 										<input name="item0" type="checkbox"/>
