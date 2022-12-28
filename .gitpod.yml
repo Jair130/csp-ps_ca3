@@ -1,7 +1,7 @@
-
 tasks:
   - init: npm i http path express fs xslt-processor xml2js && node index.js
   - init: ritwickdey.LiveServer
 vscode:
   extensions:
     - sndst00m.vscode-native-svg-preview
+    - ritwickdey.liveserver
