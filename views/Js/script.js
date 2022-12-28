@@ -39,7 +39,7 @@ function highlightDecaf(idTable, bShowRemix) {
     // "decaf" attribute on it.
     for (i = 0; i < aTRs.length; i++) {
         if (aTRs[i].getAttribute('remix') && aTRs[i].getAttribute('remix') == "true") {
-            if (bShowDecaf) {
+            if (bShowRemix) {
                 aTRs[i].style.backgroundColor = "lightGreen";
             } else {
                 aTRs[i].style.backgroundColor = "";
@@ -64,7 +64,7 @@ window.addEventListener("load", function () {
     document.querySelector("#calcBill").addEventListener("click", function () {
         document.forms[0].txtBillAmt.value = calculateBill('TracksTable');
     });
-    document.querySelector("#showDecaf").addEventListener("click", function () {
-        highlightDecaf('menuTable', this.checked);
+    document.querySelector("#showRemix").addEventListener("click", function () {
+        highlightDecaf('Trackstable', this.checked);
     });
 });
