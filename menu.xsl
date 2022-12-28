@@ -25,7 +25,7 @@
 								</td>
 							</tr>
 							<xsl:for-each select="track">
-								<tr>
+								<tr id="{position()}">
 									<xsl:attribute name="Remix">
 										<xsl:value-of select="boolean(@Remix)"/>
 									</xsl:attribute>
