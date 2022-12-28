@@ -2,7 +2,7 @@
 <menu>
     <category name="HARD TECHNO TRACKS 💀">
         <item>
-           <a href="https://www.youtube.com/watch?v=negHz9hze6U" ><listing>Ritual Original mix</listing></a>
+            <listing>Ritual Original mix</listing>
             <artist>Stephan Crown</artist>
             <label>Space Beat</label>
             <key> D maj </key>
@@ -10,7 +10,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-           <listing>Take The Memories Away Original Mix</listing>
+            <listing>Take The Memories Away Original Mix</listing>
             <artist>Stephan Crown</artist>
             <label>Space Beat</label>
             <key> Gb min </key>
@@ -18,15 +18,15 @@
             <price> 1.30 💶</price>
         </item>
         <item>
-           <a href="https://www.youtube.com/watch?v=xM59D3oEkVk"><listing>Port Mix</listing></a>
-            <artist>Krischmann and Klingenberg</artist>
+            <listing>Port Mix</listing>
+            <artist>Krischmann & Klingenberg</artist>
             <label>Technosforza</label>
             <key> Gb min </key>
             <date> 18/12/22 </date>
             <price> 1.30 💶 </price>
         </item>
         <item>
-           <a href="https://www.youtube.com/watch?v=ydfNEzw_i_E"><listing>Lisbonne Original Mix</listing></a>
+            <listing>Lisbonne Original Mix</listing>
             <artist>Psycho Chok</artist>
             <label>Technosforza</label>
             <key> Gb min </key>
@@ -34,7 +34,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item remix="true">
-          <a href="https://www.youtube.com/watch?v=WpO_svSE4Yo"><listing>Look Into Your Soul PVR (ARG) Remix</listing></a>
+            <listing>Look Into Your Soul PVR (ARG) Remix</listing>
             <artist>Stephan Crown</artist>
             <label>Space Beat</label>
             <key> Gb min </key>
@@ -44,7 +44,7 @@
     </category>
     <category name="TECHNO TRACKS ⛓">
         <item>
-            <a href="https://www.youtube.com/watch?v=bXvtKCZZmRA"><listing>Frontal Original Mix</listing></a>
+            <listing>Frontal Original Mix</listing>
             <artist>I A N</artist>
             <label>LANDR, Self-Released</label>
             <key> Bb min </key>
@@ -52,7 +52,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-           <a href="https://www.youtube.com/watch?v=xdhFSrQ9p4Y"><listing>Indian Synth Original mix</listing></a>
+            <listing>Indian Synth Original mix</listing>
             <artist>J. OSCIUA</artist>
             <label>Space Beat</label>
             <key> G min </key>
@@ -60,7 +60,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-            <a href="https://www.youtube.com/watch?v=BqPcrviKi5Q"><listing>Rabbit Hole Original Mix</listing></a>
+            <listing>Rabbit Hole Original Mix</listing>
             <artist>HI-LO, Layton Giordani</artist>
             <label>Drumcode</label>
             <key> F maj </key>
@@ -68,7 +68,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-            <a href="https://www.youtube.com/watch?v=lRyDLDdBa-c"><listing>Heute Nacht Extended Mix</listing></a>
+            <listing>Heute Nacht Extended Mix</listing>
             <artist>Maddix</artist>
             <label>Revealed Recordings</label>
             <key> A min </key>
@@ -76,7 +76,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item remix="true">
-            <a href="https://www.youtube.com/watch?v=h9_UBz20-f0"><listing>Virus Love Nice Drums Mix</listing></a>
+            <listing>Virus Love Nice Drums Mix</listing>
             <artist>Stephan Crown</artist>
             <label>Space Beat</label>
             <key> G min </key>
@@ -84,9 +84,9 @@
             <price> 1.30 💶 </price>
         </item>
     </category>
-    <category name="MELODIC HOUSE and TECHNO TRACKS ✨">
+    <category name="MELODIC HOUSE & TECHNO TRACKS ✨">
         <item>
-            <a href="https://www.youtube.com/watch?v=nX87bLftysk"><listing>Techmateria Original Mix</listing></a>
+            <listing>Techmateria Original Mix</listing>
             <artist>Frozenkanda</artist>
             <label>Loyalty Survey</label>
             <key> F maj </key>
@@ -94,7 +94,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-            <a href="https://www.youtube.com/watch?v=Lu2hvmHVoKU"><listing>Came Back To Me Original Mix</listing></a>
+            <listing>Came Back To Me Original Mix</listing>
             <artist>EZEK</artist>
             <label>Boston Underground</label>
             <key> A min </key>
@@ -102,7 +102,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-           <a href="https://www.youtube.com/watch?v=GUaltRgMaMA"><listing>Tell Me Why MEDUZA Extended Remix</listing></a>
+            <listing>Tell Me Why MEDUZA Extended Remix</listing>
             <artist>Meduza, Supermode</artist>
             <label>Axtone Records</label>
             <key> F min </key>
@@ -110,7 +110,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-           <a href="https://www.youtube.com/watch?v=QibIf73uFEw"><listing>Silver Screen Original Mix</listing></a>
+            <listing>Silver Screen Original Mix</listing>
             <artist>Space Motion</artist>
             <label>Space Motion Records</label>
             <key> Bb min </key>
@@ -118,7 +118,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item remix="true">
-            <a href="https://www.youtube.com/watch?v=f_Pu0hV8s3w"><listing>Hi Mars! Glenn Morrison Remix</listing></a>
+            <listing>Hi Mars! Glenn Morrison Remix</listing>
             <artist>Esphyr </artist>
             <label>Transpecta</label>
             <key> D maj </key>
@@ -126,10 +126,10 @@
             <price> 1.30 💶 </price>
         </item>
     </category>
-    
+
     <category name="ELECTRO TRACKS ⚡">
         <item>
-             <a href="https://www.youtube.com/watch?v=3VDG2UxIgcs"><listing>Agent Parallaxis Original Mix</listing></a>
+            <listing>Agent Parallaxis Original Mix</listing>
             <artist>Idiocrat</artist>
             <label>Diffuse Reality Records</label>
             <key> E min </key>
@@ -137,7 +137,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-           <a href="https://www.youtube.com/watch?v=wSNB4v-TOzc"> <listing>Titan Robotic Original Mix</listing></a>
+            <listing>Titan Robotic Original Mix</listing>
             <artist>Gabriel Watereast</artist>
             <label>Deep Earth-records</label>
             <key> Bb maj </key>
@@ -145,7 +145,7 @@
             <price> 1.30 💶</price>
         </item>
         <item>
-           <a href="https://www.youtube.com/watch?v=nzxAAahof-c"><listing>Beat It Original Mix</listing></a>
+            <listing>Beat It Original Mix</listing>
             <artist>Jose Jimenez</artist>
             <label>Sobel Nation Records</label>
             <key> D min </key>
@@ -153,7 +153,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-           <a href="https://www.youtube.com/watch?v=VHiPYwCYS9U"><listing>Revolution Original Version</listing></a>
+            <listing>Revolution Original Version</listing>
             <artist>Brandski</artist>
             <label>Fanzine</label>
             <key> G maj </key>
@@ -161,7 +161,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item remix="true">
-            <a href="https://www.youtube.com/watch?v=mi5PeC1EgeQ"><listing>Virgin Skaki 'lectro Remix.Skaki</listing></a>
+            <listing>Virgin Skaki 'lectro Remix.Skaki</listing>
             <artist>Tito K</artist>
             <label>Mondonga Records</label>
             <key> D maj </key>
@@ -171,7 +171,7 @@
     </category>
     <category name="DJ TOOLS📈">
         <item>
-          <a href="https://www.beatport.com/track/ultimate-countdown-3/5123721"><listing>Ultimate Countdown 3 Original Mix</listing></a>
+            <listing>Ultimate Countdown 3 Original Mix</listing>
             <artist>Dirty Funker</artist>
             <label>Cubrik</label>
             <key> Bb min </key>
@@ -179,7 +179,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-            <a href="https://www.beatport.com/track/new-years-eve-ultimate-countdown-2023/17141685"><listing>New Years Eve Ultimate Countdown 2023 Epic DJ Tools - NYE 2023</listing></a>
+            <listing>New Years Eve Ultimate Countdown 2023 Epic DJ Tools - NYE 2023</listing>
             <artist>DJ X-Change</artist>
             <label>X-Change Music</label>
             <key> Gb min </key>
@@ -187,7 +187,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-            <a href="https://www.beatport.com/track/my-house/10685439"><listing>My House Acapella</listing></a>
+            <listing>My House Acapella</listing>
             <artist>Rhythm Control</artist>
             <label>Get Physical Music</label>
             <key> Fb maj </key>
@@ -195,7 +195,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-            <a href="https://www.beatport.com/track/what-the-fk/8906129"><listing>What the F**k Acapella</listing></a>
+            <listing>What the F**k Acapella</listing>
             <artist>Roland Clark</artist>
             <label>Get Physical Music</label>
             <key> A min </key>
@@ -203,7 +203,7 @@
             <price> 1.30 💶 </price>
         </item>
         <item>
-            <a href="https://www.beatport.com/track/the-vibe/14355990"><listing>The Vibe Acapella Tool</listing></a>
+            <listing>The Vibe Acapella Tool</listing>
             <artist>Croatia Squad</artist>
             <label>Enormous Tunes</label>
             <key> F min </key>
@@ -211,8 +211,3 @@
             <price> 1.30 💶 </price>
         </item>
     </category>
-    
-
-
-
-</menu>
