@@ -211,3 +211,31 @@
             <price> 1.30 💶 </price>
         </item>
     </category>
+    <category name="TOTAL 💶">
+        <item>
+            <listing>New Years Eve Ultimate Countdown 2023 Epic DJ Tools - NYE 2023</listing>
+            <artist>DJ X-Change</artist>
+            <label>X-Change Music</label>
+            <key> Gb min </key>
+            <date> 27/12/22 </date>
+            <price> 1.30 💶 </price>
+        </item>
+        <item>
+            <listing>What the F**k Acapella</listing>
+            <artist>Roland Clark</artist>
+            <label>Get Physical Music</label>
+            <key> A min </key>
+            <date> 20/12/22 </date>
+            <price> 1.30 💶 </price>
+        </item>
+        <item remix="true">
+            <listing>Look Into Your Soul PVR (ARG) Remix</listing>
+            <artist>Stephan Crown</artist>
+            <label>Space Beat</label>
+            <key> Gb min </key>
+            <date> 07/12/22 </date>
+            <price> 1.30 💶 </price>
+        </item>
+        
+    </category>
+    </menu>
