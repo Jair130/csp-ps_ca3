@@ -12,7 +12,7 @@ router.get('/', function(req, res) {
 
     res.writeHead(200, {'Content-Type' : 'text/html'});
 
-    let xml = fs.readFileSync('menu.xml', 'utf8'),
+    let xml = fs.readFileSync('Menu.xml', 'utf8'),
         xsl = fs.readFileSync('menu.xsl', 'utf8');
 
     xml = xmlParse(xml);
